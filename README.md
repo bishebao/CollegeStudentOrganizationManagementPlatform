@@ -1,0 +1,2 @@
+# CollegeStudentOrganizationManagementPlatform
+ 基于SpringBoot Vue大学生社团管理平台
